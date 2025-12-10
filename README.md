@@ -107,7 +107,7 @@ The dataset includes:
 ![Random Forest Confusion Matrix](images/random_forest_confusion_matrix.png)
 
 ### Feature Importance (Tree-Based Models)
-![Feature Importance](images/images/decision_tree_preformance_summary.png)
+![Feature Importance](images/decision_tree_preformance_summary.png)
 
 ### Decision Tree Visualization
 ![Decision Tree](images/decision_tree_visualization.png)
