@@ -32,7 +32,7 @@ https://colab.research.google.com/drive/13_VMVZBbI-6fcg_tZbTshqPJYjKGjy2o?usp=sh
 https://youtu.be/QaPizrFGl6M
 
 **Full Report (PDF)**  
-*(Upload to GitHub and place link here)*
+https://github.com/Ymeiliangxin/DS201_Final_Project_Xinyuan/blob/main/Final_Project_Report.pdf
 
 ---
 
@@ -107,7 +107,7 @@ The dataset includes:
 ![Random Forest Confusion Matrix](images/random_forest_confusion_matrix.png)
 
 ### Feature Importance (Tree-Based Models)
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](images/images/decision_tree_preformance_summary.png)
 
 ### Decision Tree Visualization
 ![Decision Tree](images/decision_tree_visualization.png)
