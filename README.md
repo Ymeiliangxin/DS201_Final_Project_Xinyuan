@@ -75,7 +75,6 @@ The dataset includes:
 - Handling missing data  
 - Data cleaning  
 - Encoding categorical features  
-- Scaling & transformations  
 - Correlation analysis  
 
 ### **2. Models Used**
